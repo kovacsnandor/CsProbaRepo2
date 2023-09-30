@@ -34,8 +34,7 @@ bld/
 [Ll]og/
 [Ll]ogs/
 
-# Build kivétel
-!bin/Debug/valami2.txt
+
 
 # Visual Studio 2015/2017 cache/options directory
 .vs/
@@ -401,3 +400,7 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+
+# Build kivétel
+!bin/Debug/valami2.txt
