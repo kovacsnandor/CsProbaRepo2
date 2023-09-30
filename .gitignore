@@ -35,7 +35,7 @@ bld/
 [Ll]ogs/
 
 # Build kivétel
-!bin/Debug/valami2.txt
+!bin/Debug/*.txt
 
 
 # Visual Studio 2015/2017 cache/options directory
