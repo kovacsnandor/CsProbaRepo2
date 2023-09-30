@@ -16,8 +16,7 @@
 # Mono auto generated files
 mono_crash.*
 
-# Build kivétel
-!bin/[Dd]ebug/valami.txt
+
 
 # Build results
 [Dd]ebug/
@@ -34,6 +33,9 @@ bld/
 [Oo]bj/
 [Ll]og/
 [Ll]ogs/
+
+# Build kivétel
+!bin/[Dd]ebug/.txt
 
 # Visual Studio 2015/2017 cache/options directory
 .vs/
