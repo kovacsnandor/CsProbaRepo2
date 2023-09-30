@@ -17,7 +17,7 @@
 mono_crash.*
 
 # Build kivétel
-![Dd]ebug/.txt
+![Dd]ebug/valami.txt
 
 # Build results
 [Dd]ebug/
