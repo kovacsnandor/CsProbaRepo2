@@ -11,6 +11,7 @@ namespace probaRepo2
         static void Main(string[] args)
         {
             Console.WriteLine("heló2");
+            Console.ReadLine();
         }
     }
 }
